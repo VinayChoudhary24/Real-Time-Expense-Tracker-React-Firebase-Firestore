@@ -192,7 +192,7 @@ const unsubscribe = onSnapshot(collection(db, "expenses"), (snapshot) => {
 
 1. **Clone the repository**
 ```bash
-git clone "REPOSITORY URL"
+git clone https://github.com/VinayChoudhary24/Real-Time-Expense-Tracker-React-Firebase-Firestore.git
 cd expense-tracker
 ```
 
