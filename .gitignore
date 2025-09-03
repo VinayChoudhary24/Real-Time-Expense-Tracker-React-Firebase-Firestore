@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Firebase config (optional if stored separately)
+firebase-debug.log
+firebase.json
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor folders
+.vscode/
+.idea/
+
+# macOS folder attributes
+*.DS_Store
+
+# react devtools and other tools cache
+.cache/
